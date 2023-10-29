@@ -1,3 +1,3 @@
-# practise
+# Practise
 
- used to practise git and github
+ Used to practise Git and Github.
